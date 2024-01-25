@@ -1,16 +1,9 @@
 <h1>Clinic Management System with #Django #PostgreSQL #Bootstrap #CodeArtisanLab</h1>
-<h4>USD=<code>$50</code></h4>
-<h4>INR=<code>4200</code></h4>
+<h1>How to get access of the source code</h1>
+-   Watch videos of this project imeplementation https://studio.youtube.com/playlist/PLgnySyq8qZmobOgTFg561RoBBBAmi8HKW/edit
+-   Pay ($50) at https://www.paypal.me/codeartisanlab (Global)
+-   Pay (Rs. 4200) via UPI <b>shobhathakur0859@okaxis</b> (India)
+-   Once payment successfull, please send your git username on my email codeartisanlab2607[at]gmail[dot]com
 <hr/>
-<p>This is clinic management system, We are creating this system with #Python #Django #PostgreSQL and #bootstrap5. This is version 1.0 of this system. In this version, we are creating following things</p>
-<ul>
-    <li>Doctor Login</li>
-    <li>Patient Management</li>
-    <li>Notify patient for next visit via SMS or Email</li>
-    <li>View Patients count on daily, monthly and yearly basis</li>
-    <li>View Amount collected on daily, monthly and yearly basis</li>
-    <li>Export patient data as excel format</li>
-</ul>
-<hr/>
-<p>Uploaded Vides=<code>2</code></p>
-<p>Total Videos=<code>12-15</code></p>
+<p>Uploaded Videos = <code>2</code></p>
+<p>Total Videos = <code>12-15</code></p>
