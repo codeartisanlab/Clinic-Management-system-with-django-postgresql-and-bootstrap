@@ -7,5 +7,5 @@
     <li>Once payment successfull, please send your git username on my email codeartisanlab2607[at]gmail[dot]com</li>
 </ul>
 <hr/>
-<p>Uploaded Videos = <code>2</code></p>
+<p>Uploaded Videos = <code>3</code></p>
 <p>Total Videos = <code>12-15</code></p>
