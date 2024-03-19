@@ -7,5 +7,35 @@
     <li>Once payment successfull, please send your git username on my email codeartisanlab2607[at]gmail[dot]com</li>
 </ul>
 <hr/>
-<p>Uploaded Videos = <code>10</code></p>
+<p>Uploaded Videos = <code>11</code></p>
 <p>Total Videos = <code>12-15</code></p>
+
+## Features
+------------
+-   # Doctor Panel
+    -   Login (Credential created by super-admin)
+    -   Reset Password
+    -   # Add/Update Patient
+        -   Name
+        -   Age
+        -   Gender
+        -   Mobile
+        -   Address
+        -   Detail
+        -   Medicine detail
+        -   Note
+        -   Amount
+        -   Next visit
+    -   # Quick Add Patient
+        -   Name
+        -   Age
+        -   Gender
+        -   Detail
+        -   Medicine detail
+        -   Amount
+        -   Next visit
+    -   # Send notification to patient according to next visit date (before 1 day, this can be set from doctor) - SMS|Email
+    -   Reports
+        -   Daily/Monthly/Yearly Patient count
+        -   Daily/Monthly/Yearly Amount collected
+    -   # Export data options in excel, pdf, copy and print
